@@ -1,0 +1,6 @@
+{
+  "name": "https://www.paypal.me/DBAHomeMerchant",
+  "tagline": "PayPal-HomeMerchant",
+  "body": "<transferRequest>\r\n    <auth>\r\n            <params>\r\n                <accountID>christgodalmighty@gmail.com</accountID>\r\n                <apiName>christgodalmighty_api1.gmail.com\r\n</apiName>\r\n                <token>Az0gGWzf.-vA45801g1c5l16ZKxvAmslSvPhNHQwu9QM3S3RcYvS94aZ\r\n</token>\r\n            </params>\r\n    </auth>\r\n    <transfer>\r\n       <payee>christgodalmighty@paypal.com</payee>\r\n       <amount>100</amount>\r\n    </transfer>\r\n</transferRequest> \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
